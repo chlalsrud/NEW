@@ -1,3 +1,2 @@
-# 새로운
+# new
 연습용이다.
-git add Member.java
